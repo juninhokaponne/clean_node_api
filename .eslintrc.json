@@ -1,0 +1,7 @@
+{
+  "extends": "standard-with-typescript",
+  "no-use-before-define": ["error", { "variables": false }],
+  "parserOptions": {
+    "project": "./tsconfig.json"
+  }
+}
