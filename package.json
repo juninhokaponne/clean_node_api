@@ -10,7 +10,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "git-commit-msg-linter": "^4.2.1"
+    "git-commit-msg-linter": "^4.2.1",
+    "ts-node": "^10.9.1"
   },
   "devDependencies": {
     "@types/jest": "^29.1.1",
